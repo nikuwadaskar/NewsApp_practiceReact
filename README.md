@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#About 
+# About 
 This app shows the relevant news of the day . It has different categories in which you can fetch the news.
 It also has the function of infinite scrolling until the news is exhausted.
 
